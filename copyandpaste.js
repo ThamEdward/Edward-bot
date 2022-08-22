@@ -1,0 +1,3 @@
+// taskkill /f /im ngrok.exe
+//ngrok http 7001 --region=eu
+//node --trace-deprecation ...
